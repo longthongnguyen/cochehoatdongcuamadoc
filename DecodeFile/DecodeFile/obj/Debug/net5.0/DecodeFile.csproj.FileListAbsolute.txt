@@ -1,0 +1,16 @@
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DecodeFile\DecodeFile\bin\Debug\net5.0\DecodeFile.exe
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DecodeFile\DecodeFile\bin\Debug\net5.0\DecodeFile.deps.json
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DecodeFile\DecodeFile\bin\Debug\net5.0\DecodeFile.runtimeconfig.json
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DecodeFile\DecodeFile\bin\Debug\net5.0\DecodeFile.runtimeconfig.dev.json
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DecodeFile\DecodeFile\bin\Debug\net5.0\DecodeFile.dll
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DecodeFile\DecodeFile\bin\Debug\net5.0\ref\DecodeFile.dll
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DecodeFile\DecodeFile\bin\Debug\net5.0\DecodeFile.pdb
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DecodeFile\DecodeFile\obj\Debug\net5.0\DecodeFile.csprojAssemblyReference.cache
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DecodeFile\DecodeFile\obj\Debug\net5.0\DecodeFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DecodeFile\DecodeFile\obj\Debug\net5.0\DecodeFile.AssemblyInfoInputs.cache
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DecodeFile\DecodeFile\obj\Debug\net5.0\DecodeFile.AssemblyInfo.cs
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DecodeFile\DecodeFile\obj\Debug\net5.0\DecodeFile.csproj.CoreCompileInputs.cache
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DecodeFile\DecodeFile\obj\Debug\net5.0\DecodeFile.dll
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DecodeFile\DecodeFile\obj\Debug\net5.0\ref\DecodeFile.dll
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DecodeFile\DecodeFile\obj\Debug\net5.0\DecodeFile.pdb
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DecodeFile\DecodeFile\obj\Debug\net5.0\DecodeFile.genruntimeconfig.cache

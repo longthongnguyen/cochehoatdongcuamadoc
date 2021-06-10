@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZC3bXLLPnDx53vvX4efeMffpb8Mz2qIYnb3tdaWF70IM4bdTJB7q+Z0U6LPRIhlbR5jdeDnO9D+/JBEoOUNx7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\THONG\\Documents\\HOCTAP\\VisualStudio2019\\DecodeFile\\DecodeFile\\DecodeFile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\THONG\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\5.0.4\\microsoft.netcore.app.runtime.win-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\THONG\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\5.0.4\\microsoft.windowsdesktop.app.runtime.win-x64.5.0.4.nupkg.sha512",
+    "C:\\Users\\THONG\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\5.0.4\\microsoft.aspnetcore.app.runtime.win-x64.5.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

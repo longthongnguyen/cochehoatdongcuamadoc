@@ -1,0 +1,2 @@
+C:\Users\THONG\Documents\HOCTAP\CoCheHoatDongCuaMaDoc\ThucHanh\Demo\DNSExfiltration.pdb
+C:\Users\THONG\Documents\HOCTAP\CoCheHoatDongCuaMaDoc\ThucHanh\Demo\DNSExfiltration.exe

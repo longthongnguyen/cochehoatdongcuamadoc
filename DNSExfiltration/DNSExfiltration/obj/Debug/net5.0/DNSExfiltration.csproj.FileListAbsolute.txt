@@ -1,0 +1,16 @@
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DNSExfiltration\DNSExfiltration\obj\Debug\net5.0\DNSExfiltration.csprojAssemblyReference.cache
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DNSExfiltration\DNSExfiltration\obj\Debug\net5.0\DNSExfiltration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DNSExfiltration\DNSExfiltration\obj\Debug\net5.0\DNSExfiltration.AssemblyInfoInputs.cache
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DNSExfiltration\DNSExfiltration\obj\Debug\net5.0\DNSExfiltration.AssemblyInfo.cs
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DNSExfiltration\DNSExfiltration\obj\Debug\net5.0\DNSExfiltration.csproj.CoreCompileInputs.cache
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DNSExfiltration\DNSExfiltration\bin\Debug\net5.0\DNSExfiltration.exe
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DNSExfiltration\DNSExfiltration\bin\Debug\net5.0\DNSExfiltration.deps.json
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DNSExfiltration\DNSExfiltration\bin\Debug\net5.0\DNSExfiltration.runtimeconfig.json
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DNSExfiltration\DNSExfiltration\bin\Debug\net5.0\DNSExfiltration.runtimeconfig.dev.json
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DNSExfiltration\DNSExfiltration\bin\Debug\net5.0\DNSExfiltration.dll
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DNSExfiltration\DNSExfiltration\bin\Debug\net5.0\ref\DNSExfiltration.dll
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DNSExfiltration\DNSExfiltration\bin\Debug\net5.0\DNSExfiltration.pdb
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DNSExfiltration\DNSExfiltration\obj\Debug\net5.0\DNSExfiltration.dll
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DNSExfiltration\DNSExfiltration\obj\Debug\net5.0\ref\DNSExfiltration.dll
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DNSExfiltration\DNSExfiltration\obj\Debug\net5.0\DNSExfiltration.pdb
+C:\Users\THONG\Documents\HOCTAP\VisualStudio2019\DNSExfiltration\DNSExfiltration\obj\Debug\net5.0\DNSExfiltration.genruntimeconfig.cache
